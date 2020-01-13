@@ -25,8 +25,7 @@ manageability of code.
 - Whenever a user comments on a blog, that user's first level friends will be populated with the help of the above 2nd point.
 - And all that user of that blog obtained through 2nd point will have their list of first level friends updated.
 - This is how the post APIs will work.
-- Now for the get API, I have written the logic inside the UserService class (https://github.com/RehmanaliMomin/LevelFriendsSearchProject/blob/master/spring-boot-mongodb-example-master/src/main/java/com/techprimers/mongodb/springbootmongodbexample/repository/UserService.java)
-- I've used ArrayList and HashMap. 
+- Now for the get API, I have written the logic inside the UserService class using ArrayList and HashMap (https://github.com/RehmanaliMomin/LevelFriendsSearchProject/blob/master/spring-boot-mongodb-example-master/src/main/java/com/techprimers/mongodb/springbootmongodbexample/repository/UserService.java)
 
 
   
